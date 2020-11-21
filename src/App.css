@@ -4,9 +4,10 @@ html{
   background-position: left;
 }
 
-#root{
-  display: flex;
 
+h2 {
+  min-width: 10vw;
+  max-width: 15vw;
 }
 
 .app{
@@ -34,6 +35,7 @@ html{
   max-height: 40vh;
   
 }
+
 
 .content{
   display: flex;
